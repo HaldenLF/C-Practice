@@ -1,4 +1,4 @@
 # C-practice
-A collection of C programs.
+A collection of C functions.
 
-This is a collection of programs used to help understand and practice learning C.
+This collection of functions is used to help understand, practice and learn C.
